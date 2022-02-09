@@ -2,3 +2,11 @@
 	path = scripts/subword-nmt
 	url = https://github.com/rsennrich/subword-nmt.git
 	branch = master
+[submodule "data/flickr30k_entities"]
+	path = data/flickr30k_entities
+	url = https://github.com/BryanPlummer/flickr30k_entities.git
+	branch = master
+[submodule "data/Flickr30kEnt-JP"]
+	path = data/Flickr30kEnt-JP
+	url = https://github.com/nlab-mpg/Flickr30kEnt-JP.git
+	branch = master
